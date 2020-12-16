@@ -30,7 +30,7 @@ sites:
     expectedStatusCodes:
       - 403
 
-  - name: CI/CD Infrastructure:
+  - name: CI/CD Infrastructure
     url: https://jenkins.indigo-datacloud.eu/
 
   - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos
