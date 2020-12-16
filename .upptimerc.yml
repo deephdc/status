@@ -28,7 +28,7 @@ sites:
   - name: SLA Manager (SLAM) 	
     url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
     expectedStatusCodes:
-      403
+      - 403
 
   - name: CI/CD Infrastructure:
     url: https://jenkins.indigo-datacloud.eu/
