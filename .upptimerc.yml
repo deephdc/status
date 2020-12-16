@@ -9,13 +9,14 @@ sites:
   - name: DEEP Training Dashboard
     url: https://train.deep-hybrid-datacloud.eu/
   - name: DEEPaaS
-    url: https://deepaas.deep-hybrid-datacloud.eu/
+    url: https://deepaas.deep-hybrid-datacloud.eu/api/v1/web/deepaas/deep-oc/list.json
   - name: DEEP Marketplace
     url: https://marketplace.deep-hybrid-datacloud.eu/
   - name: Identity and access Management (IAM)
     url: https://iam.deep-hybrid-datacloud.eu/
   - name: NextCloud
     url: https://nc.deep-hybrid-datacloud.eu/
+
   - name: PaaS dashboard
     url: https://deep-paas.cloud.ba.infn.it/
   - name: PaaS Orchestrator
@@ -28,6 +29,10 @@ sites:
     url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
     expectedStatusCodes:
       403
+
+  - name: CI/CD Infrastructure:
+    url: https://jenkins.indigo-datacloud.eu/
+
   - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos
     url: https://mesos.cloud.ifca.es/mesos
   - name: Provider IFCA-LCG2   eu.indigo-datacloud.marathon
