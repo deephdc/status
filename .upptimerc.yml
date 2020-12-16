@@ -26,21 +26,21 @@ sites:
     url: https://deep-paas.cloud.ba.infn.it/im
   - name: SLA Manager (SLAM) 	
     url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
-  - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos                                      
-    url: https://mesos.cloud.ifca.es/mesos                                           
-  - name: Provider IFCA-LCG2   eu.indigo-datacloud.marathon                                   
-    url: https://mesos.cloud.ifca.es/marathon                                        
-  - name: Provider IFCA-LCG2   org.openstack.nova                                             
-    url: https://api.cloud.ifca.es:5000/v3                                           
-  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.chronos                            
-    url: https://mesos.ui.sav.sk/chronos                                             
-  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.marathon                           
-    url: https://mesos.ui.sav.sk/marathon                                            
-  - name: Provider QCG     eu.deep.qcg                                                        
-    url: https://qcg-deep.apps.paas-dev.psnc.pl/api                                  
-  - name: Provider RECAS-BARI  org.openstack.nova                                             
+  - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos
+    url: https://mesos.cloud.ifca.es/mesos
+  - name: Provider IFCA-LCG2   eu.indigo-datacloud.marathon
+    url: https://mesos.cloud.ifca.es/marathon
+  - name: Provider IFCA-LCG2   org.openstack.nova
+    url: https://api.cloud.ifca.es:5000/v3
+  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.chronos
+    url: https://mesos.ui.sav.sk/chronos
+  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.marathon
+    url: https://mesos.ui.sav.sk/marathon
+  - name: Provider QCG     eu.deep.qcg
+    url: https://qcg-deep.apps.paas-dev.psnc.pl/api
+  - name: Provider RECAS-BARI  org.openstack.nova
     url: https://cloud.recas.ba.infn.it:5000/v3
-    
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.deep-hybrid-datacloud.eu
