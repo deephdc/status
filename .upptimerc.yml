@@ -46,7 +46,7 @@ status-website:
   cname: status.deep-hybrid-datacloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   name: DEEP Service status
   introTitle: "DEEP platform and service status"
   introMessage: This page provides a real time overview of the [DEEP-Hybrid-DataCloud](https://deep-hybrid-datacloud.eu/the-platform/) platform and service status.
