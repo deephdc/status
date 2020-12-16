@@ -1,7 +1,7 @@
 url: https://mesos.ui.sav.sk/marathon  
-status: down
+status: up
 code: 401
-responseTime: 100
-lastUpdated: 2020-12-16T15:56:49.884Z
+responseTime: 101
+lastUpdated: 2020-12-16T16:04:29.841Z
 startTime: Wed Dec 16 2020 15:20:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
