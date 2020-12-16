@@ -1,29 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: deephdc # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: DEEP web page
+    url: https://deep-hybrid-datacloud.eu/
+  - name: DEEP Training Dashboard
+    url: https://train.deep-hybrid-datacloud.eu/
+  - name: DEEPaaS
+    url: https://deepaas.deep-hybrid-datacloud.eu/
+  - name: DEEP Marketplace
+    url: https://marketplace.deep-hybrid-datacloud.eu/
+  - name: Identity and access Management (IAM)
+    url: https://iam.deep-hybrid-datacloud.eu/
+  - name: NextCloud
+    url: https://nc.deep-hybrid-datacloud.eu/
+  - name: PaaS dashboard
+    url: https://deep-paas.cloud.ba.infn.it/
+  - name: PaaS Orchestrator
+    url: https://deep-paas.cloud.ba.infn.it/orchestrator
+  - name: Configuration Management DB (CMDB) 	
+    url: https://deep-paas.cloud.ba.infn.it/cmdb
+  - name: Infrastructure Manager (IM)
+    url: https://deep-paas.cloud.ba.infn.it/im
+  - name: SLA Manager (SLAM) 	
+    url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
+  - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos                                      
+    url: https://mesos.cloud.ifca.es/mesos                                           
+  - name: Provider IFCA-LCG2   eu.indigo-datacloud.marathon                                   
+    url: https://mesos.cloud.ifca.es/marathon                                        
+  - name: Provider IFCA-LCG2   org.openstack.nova                                             
+    url: https://api.cloud.ifca.es:5000/v3                                           
+  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.chronos                            
+    url: https://mesos.ui.sav.sk/chronos                                             
+  - name: Provider IISAS-Bratislava    eu.indigo-datacloud.marathon                           
+    url: https://mesos.ui.sav.sk/marathon                                            
+  - name: Provider QCG     eu.deep.qcg                                                        
+    url: https://qcg-deep.apps.paas-dev.psnc.pl/api                                  
+  - name: Provider RECAS-BARI  org.openstack.nova                                             
+    url: https://cloud.recas.ba.infn.it:5000/v3
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.deep-hybrid-datacloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: DEEP Service status
+  introTitle: "DEEP platform and service status"
+  introMessage: This page provides a real time overview of the [DEEP-Hybrid-DataCloud](https://deep-hybrid-datacloud.eu/the-platform/) platform and service status.
   navbar:
     - title: Status
       href: /
