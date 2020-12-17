@@ -6,39 +6,54 @@ repo: status # Your Github repository name
 sites:
   - name: DEEP web page
     url: https://deep-hybrid-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: DEEP Training Dashboard
     url: https://train.deep-hybrid-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: DEEPaaS
     url: https://deepaas.deep-hybrid-datacloud.eu/api/v1/web/deepaas/deep-oc/list.json
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: DEEP Marketplace
     url: https://marketplace.deep-hybrid-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: Identity and access Management (IAM)
     url: https://iam.deep-hybrid-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: NextCloud
     url: https://nc.deep-hybrid-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
 
   - name: PaaS dashboard
     url: https://deep-paas.cloud.ba.infn.it/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: PaaS Orchestrator
     url: https://deep-paas.cloud.ba.infn.it/orchestrator
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: Configuration Management DB (CMDB) 	
     url: https://deep-paas.cloud.ba.infn.it/cmdb
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: Infrastructure Manager (IM)
     url: https://deep-paas.cloud.ba.infn.it/im/version
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: SLA Manager (SLAM) 	
     url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
     expectedStatusCodes:
       - 403
 
   - name: CI/CD Infrastructure
     url: https://jenkins.indigo-datacloud.eu/
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
 
   - name: Provider IFCA-LCG2   eu.indigo-datacloud.mesos
     url: https://mesos.cloud.ifca.es/mesos
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png
   - name: Provider IFCA-LCG2   eu.indigo-datacloud.marathon
     url: https://mesos.cloud.ifca.es/marathon
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png
   - name: Provider IFCA-LCG2   org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
+    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png
   - name: Provider IISAS-Bratislava    eu.indigo-datacloud.chronos
     url: https://mesos.ui.sav.sk/chronos
     expectedStatusCodes:
