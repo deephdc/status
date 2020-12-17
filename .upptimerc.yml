@@ -24,7 +24,7 @@ sites:
   - name: Configuration Management DB (CMDB) 	
     url: https://deep-paas.cloud.ba.infn.it/cmdb
   - name: Infrastructure Manager (IM)
-    url: https://deep-paas.cloud.ba.infn.it/im/
+    url: https://deep-paas.cloud.ba.infn.it/im/version
   - name: SLA Manager (SLAM) 	
     url: https://deep-slam.cloud.ba.infn.it:8443/rest/slam
     expectedStatusCodes:
