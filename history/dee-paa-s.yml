@@ -1,7 +1,7 @@
 url: https://deepaas.deep-hybrid-datacloud.eu/api/v1/web/deepaas/deep-oc/list.json
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2021-03-11T23:05:08.933Z
+status: down
+code: 503
+responseTime: 555
+lastUpdated: 2021-03-12T13:28:09.426Z
 startTime: Wed Dec 16 2020 15:19:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
