@@ -1,7 +1,7 @@
 url: https://deep-paas.cloud.ba.infn.it/
-status: up
-code: 200
-responseTime: 1414
-lastUpdated: 2021-03-16T23:05:24.902Z
+status: down
+code: 502
+responseTime: 849
+lastUpdated: 2021-03-17T19:22:03.856Z
 startTime: Wed Dec 16 2020 15:19:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
