@@ -4,10 +4,10 @@
     "url": "https://deep-hybrid-datacloud.eu/",
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "deep-web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1277,
@@ -16,7 +16,7 @@
     "timeMonth": 1175,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2021-06-09": 21,
+      "2021-06-09": 23,
       "2021-01-11": 28
     }
   },
@@ -111,7 +111,7 @@
     "slug": "deep-marketplace",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
+    "uptimeDay": "99.73%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
@@ -184,7 +184,7 @@
     "timeMonth": 1481,
     "timeYear": 1510,
     "dailyMinutesDown": {
-      "2021-06-09": 653,
+      "2021-06-09": 663,
       "2021-06-08": 1440,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
@@ -474,7 +474,7 @@
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 686,
-    "timeWeek": 604,
+    "timeWeek": 609,
     "timeMonth": 614,
     "timeYear": 611,
     "dailyMinutesDown": {}
