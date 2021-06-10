@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 1276,
     "timeDay": 1126,
-    "timeWeek": 1098,
+    "timeWeek": 1081,
     "timeMonth": 1175,
     "timeYear": 1276,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "97.00%",
     "time": 1848,
     "timeDay": 1054,
-    "timeWeek": 1671,
+    "timeWeek": 1732,
     "timeMonth": 1684,
     "timeYear": 1848,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
     "uptimeYear": "99.98%",
     "time": 273,
     "timeDay": 300,
-    "timeWeek": 259,
+    "timeWeek": 257,
     "timeMonth": 293,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -137,7 +137,7 @@
     "uptimeYear": "99.26%",
     "time": 3451,
     "timeDay": 3146,
-    "timeWeek": 3970,
+    "timeWeek": 4076,
     "timeMonth": 3263,
     "timeYear": 3451,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "uptimeYear": "99.99%",
     "time": 973,
     "timeDay": 930,
-    "timeWeek": 817,
+    "timeWeek": 823,
     "timeMonth": 829,
     "timeYear": 973,
     "dailyMinutesDown": {
@@ -173,18 +173,19 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-dashboard",
     "status": "up",
-    "uptime": "52.00%",
+    "uptime": "51.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.00%",
+    "uptimeYear": "51.98%",
     "time": 1508,
     "timeDay": 1117,
-    "timeWeek": 1332,
+    "timeWeek": 1356,
     "timeMonth": 1492,
     "timeYear": 1508,
     "dailyMinutesDown": {
-      "2021-06-09": 1401,
+      "2021-06-10": 23,
+      "2021-06-09": 1440,
       "2021-06-08": 1440,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
@@ -284,7 +285,7 @@
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 257,
-    "timeWeek": 256,
+    "timeWeek": 257,
     "timeMonth": 271,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -302,7 +303,7 @@
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 289,
-    "timeWeek": 285,
+    "timeWeek": 286,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {}
@@ -341,7 +342,7 @@
     "uptimeYear": "99.98%",
     "time": 1413,
     "timeDay": 1063,
-    "timeWeek": 1257,
+    "timeWeek": 1236,
     "timeMonth": 1458,
     "timeYear": 1413,
     "dailyMinutesDown": {
@@ -362,7 +363,7 @@
     "uptimeYear": "98.66%",
     "time": 1221,
     "timeDay": 950,
-    "timeWeek": 886,
+    "timeWeek": 899,
     "timeMonth": 869,
     "timeYear": 1221,
     "dailyMinutesDown": {
@@ -386,7 +387,7 @@
     "uptimeYear": "97.86%",
     "time": 2975,
     "timeDay": 4012,
-    "timeWeek": 2253,
+    "timeWeek": 2376,
     "timeMonth": 2661,
     "timeYear": 2975,
     "dailyMinutesDown": {
@@ -415,7 +416,7 @@
     "uptimeYear": "97.55%",
     "time": 746,
     "timeDay": 629,
-    "timeWeek": 447,
+    "timeWeek": 457,
     "timeMonth": 583,
     "timeYear": 746,
     "dailyMinutesDown": {
@@ -445,7 +446,7 @@
     "uptimeYear": "98.32%",
     "time": 542,
     "timeDay": 401,
-    "timeWeek": 427,
+    "timeWeek": 436,
     "timeMonth": 472,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -474,7 +475,7 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 597,
-    "timeWeek": 597,
+    "timeWeek": 595,
     "timeMonth": 612,
     "timeYear": 609,
     "dailyMinutesDown": {}
@@ -510,7 +511,7 @@
     "uptimeYear": "98.79%",
     "time": 1717,
     "timeDay": 1430,
-    "timeWeek": 1703,
+    "timeWeek": 1627,
     "timeMonth": 1723,
     "timeYear": 1717,
     "dailyMinutesDown": {
@@ -538,7 +539,7 @@
     "uptimeYear": "100.00%",
     "time": 1034,
     "timeDay": 904,
-    "timeWeek": 1227,
+    "timeWeek": 945,
     "timeMonth": 1234,
     "timeYear": 1034,
     "dailyMinutesDown": {}
