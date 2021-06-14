@@ -13,7 +13,7 @@
     "time": 1287,
     "timeDay": 1919,
     "timeWeek": 1398,
-    "timeMonth": 1244,
+    "timeMonth": 1242,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2021-06-09": 43,
@@ -34,7 +34,7 @@
     "time": 1820,
     "timeDay": 479,
     "timeWeek": 907,
-    "timeMonth": 1616,
+    "timeMonth": 1626,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2021-06-09": 21,
@@ -118,7 +118,7 @@
     "time": 275,
     "timeDay": 220,
     "timeWeek": 319,
-    "timeMonth": 303,
+    "timeMonth": 296,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -138,7 +138,7 @@
     "time": 3438,
     "timeDay": 3073,
     "timeWeek": 3078,
-    "timeMonth": 3166,
+    "timeMonth": 3143,
     "timeYear": 3438,
     "dailyMinutesDown": {
       "2021-05-19": 11,
@@ -161,7 +161,7 @@
     "time": 974,
     "timeDay": 684,
     "timeWeek": 950,
-    "timeMonth": 866,
+    "timeMonth": 867,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2021-06-09": 30
@@ -173,18 +173,18 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-dashboard",
     "status": "up",
-    "uptime": "50.56%",
+    "uptime": "50.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.56%",
+    "uptimeYear": "50.55%",
     "time": 1520,
     "timeDay": 1188,
     "timeWeek": 1674,
-    "timeMonth": 1597,
+    "timeMonth": 1582,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2021-06-14": 1389,
+      "2021-06-14": 1405,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
       "2021-06-11": 1440,
@@ -290,7 +290,7 @@
     "time": 271,
     "timeDay": 246,
     "timeWeek": 287,
-    "timeMonth": 279,
+    "timeMonth": 278,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -308,7 +308,7 @@
     "time": 300,
     "timeDay": 299,
     "timeWeek": 324,
-    "timeMonth": 309,
+    "timeMonth": 308,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -326,7 +326,7 @@
     "time": 139,
     "timeDay": 127,
     "timeWeek": 149,
-    "timeMonth": 144,
+    "timeMonth": 143,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2020-12-17": 578,
@@ -347,7 +347,7 @@
     "time": 1421,
     "timeDay": 662,
     "timeWeek": 1506,
-    "timeMonth": 1518,
+    "timeMonth": 1524,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2021-04-30": 17,
@@ -368,7 +368,7 @@
     "time": 1215,
     "timeDay": 666,
     "timeWeek": 936,
-    "timeMonth": 886,
+    "timeMonth": 883,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2021-06-09": 21,
@@ -392,7 +392,7 @@
     "time": 2978,
     "timeDay": 6479,
     "timeWeek": 2961,
-    "timeMonth": 2593,
+    "timeMonth": 2621,
     "timeYear": 2978,
     "dailyMinutesDown": {
       "2021-06-09": 20,
@@ -421,7 +421,7 @@
     "time": 741,
     "timeDay": 744,
     "timeWeek": 543,
-    "timeMonth": 581,
+    "timeMonth": 584,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2021-06-09": 20,
@@ -451,7 +451,7 @@
     "time": 541,
     "timeDay": 369,
     "timeWeek": 485,
-    "timeMonth": 479,
+    "timeMonth": 478,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2021-05-11": 70,
@@ -471,15 +471,15 @@
     "url": "https://mesos.ui.sav.sk/chronos",
     "icon": "https://favicons.githubusercontent.com/mesos.ui.sav.sk",
     "slug": "provider-iisas-bratislava-eu-indigo-datacloud-chronos",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 649,
-    "timeWeek": 647,
+    "timeDay": 650,
+    "timeWeek": 648,
     "timeMonth": 630,
     "timeYear": 614,
     "dailyMinutesDown": {}
@@ -489,15 +489,15 @@
     "url": "https://mesos.ui.sav.sk/marathon",
     "icon": "https://favicons.githubusercontent.com/mesos.ui.sav.sk",
     "slug": "provider-iisas-bratislava-eu-indigo-datacloud-marathon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 125,
-    "timeWeek": 118,
+    "timeDay": 122,
+    "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -516,7 +516,7 @@
     "time": 1714,
     "timeDay": 1533,
     "timeWeek": 1578,
-    "timeMonth": 1756,
+    "timeMonth": 1733,
     "timeYear": 1714,
     "dailyMinutesDown": {
       "2021-05-17": 453,
@@ -544,7 +544,7 @@
     "time": 1029,
     "timeDay": 580,
     "timeWeek": 968,
-    "timeMonth": 1226,
+    "timeMonth": 1207,
     "timeYear": 1029,
     "dailyMinutesDown": {}
   }
