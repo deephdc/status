@@ -1,7 +1,7 @@
 url: https://train.deep-hybrid-datacloud.eu/
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2021-06-19T23:06:14.351Z
+status: down
+code: 503
+responseTime: 499
+lastUpdated: 2021-06-21T10:47:30.994Z
 startTime: Wed Dec 16 2020 15:19:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
