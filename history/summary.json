@@ -13,7 +13,7 @@
     "time": 1292,
     "timeDay": 1405,
     "timeWeek": 1206,
-    "timeMonth": 1333,
+    "timeMonth": 1336,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2021-06-09": 43,
@@ -34,7 +34,7 @@
     "time": 1713,
     "timeDay": 643,
     "timeWeek": 757,
-    "timeMonth": 952,
+    "timeMonth": 950,
     "timeYear": 1713,
     "dailyMinutesDown": {
       "2021-06-21": 7,
@@ -119,7 +119,7 @@
     "time": 288,
     "timeDay": 244,
     "timeWeek": 281,
-    "timeMonth": 364,
+    "timeMonth": 371,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -139,7 +139,7 @@
     "time": 3398,
     "timeDay": 3491,
     "timeWeek": 3098,
-    "timeMonth": 3237,
+    "timeMonth": 3231,
     "timeYear": 3398,
     "dailyMinutesDown": {
       "2021-06-16": 17,
@@ -163,7 +163,7 @@
     "time": 974,
     "timeDay": 847,
     "timeWeek": 848,
-    "timeMonth": 938,
+    "timeMonth": 946,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2021-06-09": 30
@@ -183,10 +183,10 @@
     "time": 1537,
     "timeDay": 1750,
     "timeWeek": 1857,
-    "timeMonth": 1671,
+    "timeMonth": 1667,
     "timeYear": 1537,
     "dailyMinutesDown": {
-      "2021-07-03": 1416,
+      "2021-07-03": 1426,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
@@ -329,7 +329,7 @@
     "time": 300,
     "timeDay": 282,
     "timeWeek": 307,
-    "timeMonth": 304,
+    "timeMonth": 305,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -368,7 +368,7 @@
     "time": 1423,
     "timeDay": 1075,
     "timeWeek": 1280,
-    "timeMonth": 1440,
+    "timeMonth": 1438,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2021-04-30": 17,
@@ -384,15 +384,15 @@
     "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.65%",
+    "uptimeMonth": "75.63%",
     "uptimeYear": "95.11%",
     "time": 1186,
     "timeDay": 537,
     "timeWeek": 678,
-    "timeMonth": 901,
+    "timeMonth": 903,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2021-07-03": 1416,
+      "2021-07-03": 1426,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
@@ -421,7 +421,7 @@
     "time": 2952,
     "timeDay": 6483,
     "timeWeek": 2488,
-    "timeMonth": 2672,
+    "timeMonth": 2712,
     "timeYear": 2952,
     "dailyMinutesDown": {
       "2021-06-16": 17,
@@ -451,7 +451,7 @@
     "time": 720,
     "timeDay": 791,
     "timeWeek": 482,
-    "timeMonth": 508,
+    "timeMonth": 511,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2021-06-16": 17,
@@ -482,7 +482,7 @@
     "time": 539,
     "timeDay": 407,
     "timeWeek": 451,
-    "timeMonth": 495,
+    "timeMonth": 499,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2021-05-11": 70,
@@ -502,17 +502,17 @@
     "url": "https://mesos.ui.sav.sk/chronos",
     "icon": "https://favicons.githubusercontent.com/mesos.ui.sav.sk",
     "slug": "provider-iisas-bratislava-eu-indigo-datacloud-chronos",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 622,
-    "timeWeek": 590,
-    "timeMonth": 621,
-    "timeYear": 615,
+    "time": 616,
+    "timeDay": 627,
+    "timeWeek": 592,
+    "timeMonth": 622,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
@@ -520,17 +520,17 @@
     "url": "https://mesos.ui.sav.sk/marathon",
     "icon": "https://favicons.githubusercontent.com/mesos.ui.sav.sk",
     "slug": "provider-iisas-bratislava-eu-indigo-datacloud-marathon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
+    "time": 112,
     "timeDay": 126,
     "timeWeek": 116,
     "timeMonth": 117,
-    "timeYear": 111,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -547,7 +547,7 @@
     "time": 1695,
     "timeDay": 1673,
     "timeWeek": 1543,
-    "timeMonth": 1548,
+    "timeMonth": 1545,
     "timeYear": 1695,
     "dailyMinutesDown": {
       "2021-06-25": 535,
@@ -576,7 +576,7 @@
     "time": 1031,
     "timeDay": 793,
     "timeWeek": 1107,
-    "timeMonth": 994,
+    "timeMonth": 1008,
     "timeYear": 1031,
     "dailyMinutesDown": {}
   }
