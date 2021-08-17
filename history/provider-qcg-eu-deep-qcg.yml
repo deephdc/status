@@ -1,7 +1,7 @@
 url: https://qcg-deep.apps.paas-dev.psnc.pl/api
-status: up
-code: 200
-responseTime: 2000
-lastUpdated: 2021-08-16T23:08:30.512Z
+status: down
+code: 503
+responseTime: 1317
+lastUpdated: 2021-08-17T22:53:19.093Z
 startTime: Wed Dec 16 2020 15:20:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
