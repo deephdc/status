@@ -194,7 +194,7 @@
     "timeMonth": 1834,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2021-09-28": 223,
+      "2021-09-28": 233,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
@@ -699,9 +699,9 @@
     "url": "https://qcg-deep.apps.paas-dev.psnc.pl/api",
     "icon": "https://favicons.githubusercontent.com/qcg-deep.apps.paas-dev.psnc.pl",
     "slug": "provider-qcg-eu-deep-qcg",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
@@ -711,6 +711,7 @@
     "timeMonth": 1560,
     "timeYear": 1682,
     "dailyMinutesDown": {
+      "2021-09-28": 0,
       "2021-08-27": 16,
       "2021-08-18": 60,
       "2021-08-17": 8,
