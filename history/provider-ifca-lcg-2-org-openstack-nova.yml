@@ -1,7 +1,7 @@
 url: https://api.cloud.ifca.es:5000/v3
 status: up
 code: 200
-responseTime: 651
-lastUpdated: 2021-10-04T23:05:57.070Z
+responseTime: 449
+lastUpdated: 2021-10-05T23:07:17.121Z
 startTime: Wed Dec 16 2020 15:20:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
