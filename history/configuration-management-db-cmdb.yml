@@ -1,7 +1,7 @@
 url: https://deep-paas.cloud.ba.infn.it/cmdb
-status: down
-code: 502
-responseTime: 3230
-lastUpdated: 2021-12-07T04:53:05.646Z
+status: up
+code: 200
+responseTime: 391
+lastUpdated: 2021-12-07T08:54:07.489Z
 startTime: Wed Dec 16 2020 15:20:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
