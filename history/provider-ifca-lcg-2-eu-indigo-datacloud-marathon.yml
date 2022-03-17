@@ -1,7 +1,7 @@
 url: https://mesos.cloud.ifca.es/marathon
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-03-17T00:21:51.518Z
+code: 500
+responseTime: 927
+lastUpdated: 2022-03-17T23:08:23.656Z
 startTime: Wed Dec 16 2020 15:20:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
