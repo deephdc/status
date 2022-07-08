@@ -1,7 +1,7 @@
 url: https://cloud.recas.ba.infn.it:5000/v3
-status: up
-code: 200
-responseTime: 936
-lastUpdated: 2022-07-07T23:11:10.593Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-07-08T05:33:07.771Z
 startTime: Wed Dec 16 2020 15:20:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
