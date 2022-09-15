@@ -184,19 +184,19 @@
     "url": "https://marketplace.deep-hybrid-datacloud.eu/",
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "deep-marketplace",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 309,
-    "timeDay": 354,
-    "timeWeek": 273,
+    "timeDay": 343,
+    "timeWeek": 280,
     "timeMonth": 321,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-09-15": 1
+      "2022-09-15": 39
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2022-09-15": 1126,
+      "2022-09-15": 1164,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -340,7 +340,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.84%",
+    "uptimeYear": "15.85%",
     "time": 2036,
     "timeDay": 5358,
     "timeWeek": 4475,
@@ -1139,7 +1139,7 @@
     "icon": "https://favicons.githubusercontent.com/qcg-deep.apps.paas-dev.psnc.pl",
     "slug": "provider-qcg-eu-deep-qcg",
     "status": "down",
-    "uptime": "51.34%",
+    "uptime": "51.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1150,7 +1150,7 @@
     "timeMonth": 1827,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2022-09-15": 1126,
+      "2022-09-15": 1165,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
