@@ -1,7 +1,7 @@
 url: https://mesos.cloud.ifca.es/mesos
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-07T23:12:11.042Z
+status: up
+code: 200
+responseTime: 1913
+lastUpdated: 2022-11-08T16:38:11.750Z
 startTime: Wed Dec 16 2020 15:20:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
