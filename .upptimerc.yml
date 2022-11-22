@@ -20,7 +20,8 @@ sites:
     url: https://iam.deep-hybrid-datacloud.eu/
     icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
   - name: NextCloud
-    url: https://nc.deep-hybrid-datacloud.eu/
+    # url: https://nc.deep-hybrid-datacloud.eu/
+    url: https://data-deep.a.incd.pt/
     icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo.png
 
   - name: PaaS dashboard
