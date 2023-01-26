@@ -6,10 +6,10 @@
     "slug": "deep-web-page",
     "status": "up",
     "uptime": "87.65%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.02%",
+    "uptimeDay": "5.75%",
+    "uptimeWeek": "0.82%",
     "uptimeMonth": "73.90%",
-    "uptimeYear": "88.44%",
+    "uptimeYear": "88.45%",
     "time": 1769,
     "timeDay": 954,
     "timeWeek": 954,
@@ -70,8 +70,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
@@ -221,14 +220,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.24%",
+    "uptimeYear": "45.22%",
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-01-25": 1401,
+      "2023-01-26": 41,
+      "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -436,11 +436,11 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-dashboard",
     "status": "up",
-    "uptime": "36.43%",
+    "uptime": "36.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.92%",
+    "uptimeYear": "51.93%",
     "time": 2626,
     "timeDay": 1749,
     "timeWeek": 3470,
@@ -624,8 +624,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
@@ -742,7 +741,7 @@
     "uptime": "94.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.19%",
+    "uptimeMonth": "29.38%",
     "uptimeYear": "89.35%",
     "time": 2191,
     "timeDay": 1596,
@@ -805,7 +804,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.38%",
+    "uptimeYear": "72.40%",
     "time": 1167,
     "timeDay": 1135,
     "timeWeek": 1067,
@@ -919,8 +918,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
@@ -929,7 +927,7 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png",
     "slug": "provider-ifca-lcg-2-eu-indigo-datacloud-mesos",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1108,7 +1106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcg-deep.apps.paas-dev.psnc.pl.ico",
     "slug": "provider-qcg-eu-deep-qcg",
     "status": "down",
-    "uptime": "42.53%",
+    "uptime": "42.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1119,7 +1117,8 @@
     "timeMonth": 1796,
     "timeYear": 1698,
     "dailyMinutesDown": {
-      "2023-01-25": 1401,
+      "2023-01-26": 42,
+      "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -1482,8 +1481,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
