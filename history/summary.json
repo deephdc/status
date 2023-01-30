@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "deep-web-page",
     "status": "up",
-    "uptime": "87.71%",
+    "uptime": "87.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.47%",
+    "uptimeWeek": "57.93%",
     "uptimeMonth": "73.90%",
-    "uptimeYear": "89.54%",
+    "uptimeYear": "89.55%",
     "time": 1770,
     "timeDay": 1413,
     "timeWeek": 1358,
@@ -66,8 +66,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -220,14 +219,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.14%",
+    "uptimeYear": "44.13%",
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2023-01-29": 1431,
+      "2023-01-30": 39,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -439,11 +439,11 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-dashboard",
     "status": "up",
-    "uptime": "36.76%",
+    "uptime": "36.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.02%",
+    "uptimeYear": "53.03%",
     "time": 2646,
     "timeDay": 1510,
     "timeWeek": 3753,
@@ -623,8 +623,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -633,18 +632,19 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-orchestrator",
     "status": "down",
-    "uptime": "96.19%",
+    "uptime": "96.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.12%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "95.40%",
+    "uptimeWeek": "66.65%",
+    "uptimeMonth": "92.33%",
+    "uptimeYear": "95.39%",
     "time": 346,
     "timeDay": 0,
     "timeWeek": 317,
     "timeMonth": 305,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-01-29": 1431,
+      "2023-01-30": 39,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 443,
       "2022-12-02": 912,
@@ -744,7 +744,7 @@
     "uptime": "94.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.41%",
+    "uptimeMonth": "42.52%",
     "uptimeYear": "89.35%",
     "time": 2213,
     "timeDay": 4937,
@@ -807,7 +807,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.48%",
+    "uptimeYear": "73.49%",
     "time": 1168,
     "timeDay": 1243,
     "timeWeek": 1093,
@@ -917,8 +917,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -1106,7 +1105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcg-deep.apps.paas-dev.psnc.pl.ico",
     "slug": "provider-qcg-eu-deep-qcg",
     "status": "down",
-    "uptime": "42.31%",
+    "uptime": "42.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1117,7 +1116,8 @@
     "timeMonth": 1787,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-01-29": 1432,
+      "2023-01-30": 39,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -1480,8 +1480,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
