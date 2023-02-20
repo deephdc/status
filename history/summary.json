@@ -8,7 +8,7 @@
     "uptime": "88.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.35%",
+    "uptimeMonth": "80.48%",
     "uptimeYear": "94.96%",
     "time": 1771,
     "timeDay": 1409,
@@ -199,18 +199,19 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "70.09%",
+    "uptime": "70.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.38%",
+    "uptimeYear": "38.37%",
     "time": 888,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2023-02-19": 1433,
+      "2023-02-20": 46,
+      "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -443,11 +444,11 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo.png",
     "slug": "paa-s-dashboard",
     "status": "up",
-    "uptime": "38.43%",
+    "uptime": "38.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.77%",
+    "uptimeYear": "58.78%",
     "time": 2722,
     "timeDay": 1723,
     "timeWeek": 1959,
@@ -606,8 +607,7 @@
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
-      "2022-02-21": 1440,
-      "2022-02-20": 1440
+      "2022-02-21": 1440
     }
   },
   {
@@ -794,7 +794,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.24%",
+    "uptimeYear": "79.25%",
     "time": 1174,
     "timeDay": 1196,
     "timeWeek": 1037,
@@ -883,8 +883,7 @@
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1322,
-      "2022-02-21": 981,
-      "2022-02-20": 1440
+      "2022-02-21": 981
     }
   },
   {
@@ -1011,10 +1010,10 @@
     "icon": "https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png",
     "slug": "provider-ifca-lcg-2-org-openstack-nova",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptime": "99.23%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.17%",
     "time": 522,
     "timeDay": 438,
@@ -1022,7 +1021,8 @@
     "timeMonth": 464,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2023-02-19": 17,
+      "2023-02-20": 35,
+      "2023-02-19": 24,
       "2022-11-30": 878,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
@@ -1084,7 +1084,8 @@
     "timeMonth": 1821,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2023-02-19": 1433,
+      "2023-02-20": 47,
+      "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
@@ -1447,8 +1448,7 @@
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
-      "2022-02-21": 1440,
-      "2022-02-20": 1440
+      "2022-02-21": 1440
     }
   },
   {
