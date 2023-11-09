@@ -1,7 +1,7 @@
 url: https://jenkins.indigo-datacloud.eu/
-status: down
-code: 502
-responseTime: 946
-lastUpdated: 2023-11-09T22:32:20.390Z
+status: up
+code: 200
+responseTime: 1085
+lastUpdated: 2023-11-09T22:42:11.227Z
 startTime: 2020-12-16T15:56:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
